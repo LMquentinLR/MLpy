@@ -6,7 +6,7 @@ MLpy is a practical use of machine learning (tensorflow/keras), which goal is to
 
 ### derpi_get package
 
-If you want to run this jupyter notebook locally, you will have to install ``derpi_get``, a package not available on PIP. You can find it [here](https://github.com/LMquentinLR/derpi_get)
+If you want to run this jupyter notebook locally, you will have to install ``derpi_get``, a package not available on PIP. You can find it [here](https://github.com/LMquentinLR/derpi_get).
 
 ### Disclaimer
 
