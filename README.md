@@ -2,11 +2,11 @@
 
 ### What is it about?
 
-MLpy is a practical use of machine learning (tensorflow/keras), which goal is to produce a model that can perform image classification between SFW and NSFW pictures for automated moderation purposes (for the brony community).
+**WIP**
 
 ### derpi_get package
 
-If you want to run this jupyter notebook locally, you will have to install ``derpi_get``, a package not available on PIP. You can find it [here](https://github.com/LMquentinLR/derpi_get).
+**WIP**
 
 ### Disclaimer
 
