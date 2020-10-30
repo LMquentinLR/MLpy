@@ -1,4 +1,9 @@
 ### Jupyter Notebook ###
 .ipynb_checkpoints/
+### image DBs and sets ###
+.databases/*
 *.pgdump
+### parameters ###
 database.ini
+### Python ###
+.__pycache__/
