@@ -1,7 +1,7 @@
 ### Jupyter Notebook ###
 .ipynb_checkpoints/
 ### image DBs and sets ###
-data_dump/databases/*
+databases/*
 *.pgdump
 ### parameters ###
 database.ini
