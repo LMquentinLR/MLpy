@@ -3,6 +3,8 @@
 ### image DBs and sets ###
 **/39068_29300_26707/*
 **/40482/*
+save_at_[0-9].h5
+save_at_[0-9][0-9].h5
 *.pgdump
 ### parameters ###
 database.ini
