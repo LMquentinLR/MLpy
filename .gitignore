@@ -5,6 +5,11 @@
 **/40482/*
 save_at_[0-9].h5
 save_at_[0-9][0-9].h5
+save_at_second_fitting_[0-9].h5
+save_at_third_fitting_[0-9][0-9].h5
+save_at_third_fitting_[0-9].h5
+save_at_fourth_[0-9].h5
+save_at_last_[0-9].h5
 *.pgdump
 ### parameters ###
 database.ini

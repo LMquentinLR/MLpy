@@ -4,3 +4,4 @@ from .pgdump_restore import restore_db
 from .pgdump_save_db import save_db
 from .make_csv import create_dataset_csv
 from .download_images import download_images
+from .model import run_inference

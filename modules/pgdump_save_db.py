@@ -5,7 +5,7 @@ from datetime import date
 
 def save_db(filename, section, filename_of_db, target_folder):
     """
-    Restores a postgreSQL database from a pgdump file.
+    Saves a postgreSQL database into a .pgdump file.
     """
     # Reads connection parameters
     parameters = retrieve_config_parameters(filename, section)
